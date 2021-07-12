@@ -20,4 +20,6 @@ body {
 
 .page__list {
   font-size: 25px;
+  margin: 0;
+  padding: 0;
 }
